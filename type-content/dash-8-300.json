@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched classic Dash 8 carries 50 passengers into airports that barely qualify as airports. Its rugged Canadian short-field genes keep survivors busy from the Pacific islands to the Arctic.",
+    "Classic Dash 8s lack the Q-series noise suppression, so passengers remember them louder than passengers remember Q400s."
+  ],
+  "funFacts": [
+    "First flight: May 15, 1987.",
+    "Built for genuinely short and rough runways.",
+    "A staple of island and northern operators."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW123 turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 56"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

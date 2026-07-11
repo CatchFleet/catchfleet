@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "One of the fastest turboprops ever built: the stretched Saab cruises near 680 km/h, embarrassing jets on short sectors. The market chose regional jets anyway, and only 63 were made.",
+    "Its speed, rarity and Swedish engineering make the 2000 a cult favorite; surviving operators are few and devoted."
+  ],
+  "funFacts": [
+    "First flight: March 26, 1992.",
+    "Only 63 were built.",
+    "Among the fastest turboprop airliners in history."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x AE2100A turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~2,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 58"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The freighter 777 married the -200LR's legs to a windowless deck and quietly became the backbone of modern air cargo. FedEx, Qatar and Lufthansa Cargo route them through the night.",
+    "Night owls catch 777Fs: cargo schedules mean many stations log them mostly after midnight."
+  ],
+  "funFacts": [
+    "First flight: July 14, 2008.",
+    "Carries over 100 tonnes across oceans.",
+    "The best-selling large freighter of its generation."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE90-110B"
+    },
+    {
+      "label": "Range",
+      "value": "~9,200 km loaded"
+    },
+    {
+      "label": "Payload",
+      "value": "~102 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-777-family.png",
+    "alt": "777 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 777 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.0.png"
+  }
+}

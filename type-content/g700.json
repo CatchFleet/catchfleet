@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Gulfstream's flagship carries the longest cabin in business aviation on Rolls-Royce Pearl engines. It flies 13,900 km nonstop, which means it can appear over your station from literally anywhere.",
+    "Five living areas, circadian lighting, and a galley bigger than some apartments: the current peak of the private jet arms race."
+  ],
+  "funFacts": [
+    "First flight: February 14, 2020.",
+    "The longest cabin ever fitted to a business jet.",
+    "Set multiple city-pair speed records during testing."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Pearl 700"
+    },
+    {
+      "label": "Range",
+      "value": "~13,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 19"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

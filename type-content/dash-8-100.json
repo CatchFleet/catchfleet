@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original 1983 Dash 8 is still the airplane of choice where runways are short, gravel is normal and weather is personal. Canada's north essentially runs on them.",
+    "A -100 in your Fleet usually means you caught something working hard in a place most aviation forgot."
+  ],
+  "funFacts": [
+    "First flight: June 20, 1983.",
+    "De Havilland Canada's classic short-field design.",
+    "Dozens still serve remote northern communities."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW120A turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 39"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The improved 50-seater sold in the hundreds and carried America's hub-feed traffic for two decades. Passenger fleets are mostly gone, but cargo conversions gave the airframe a busy second act.",
+    "If you log one at 3 AM, that is the freighter life: small packages, small airports, tireless airframe."
+  ],
+  "funFacts": [
+    "First flight: 1995 (as the CRJ100's re-engined successor).",
+    "Over 900 CRJ100/200 series aircraft were built.",
+    "Cargo conversions keep large numbers flying today."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-3B1"
+    },
+    {
+      "label": "Range",
+      "value": "~3,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 50"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

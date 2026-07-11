@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched 7X is Dassault's ultra-long-range flagship: three engines, 11,900 km of range and the ability to use short runways big jets cannot. It links city pairs almost nothing else connects.",
+    "Trijet plus extreme range equals gloriously strange tracks: watch where your 8X catches actually go."
+  ],
+  "funFacts": [
+    "First flight: February 6, 2016.",
+    "Can land at steep, short fields like London City.",
+    "The longest-range Falcon yet."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x PW307D"
+    },
+    {
+      "label": "Range",
+      "value": "~11,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 16"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

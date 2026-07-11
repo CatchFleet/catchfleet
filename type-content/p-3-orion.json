@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The P-3 Orion is a Lockheed Electra airliner reborn as a submarine hunter, its tail stinger a magnetic anomaly detector for finding steel hulls beneath the waves. It patrolled every ocean of the Cold War.",
+    "The survivors work hard: NOAA's hurricane hunters fly P-3s into the eyewall on purpose, and firefighting conversions drop retardant over the American West. Navies still fly it too."
+  ],
+  "funFacts": [
+    "First flight: November 25, 1959 (YP3V prototype).",
+    "The tail boom is a magnetic anomaly detector.",
+    "NOAA P-3s fly into hurricanes for a living."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x Allison T56"
+    },
+    {
+      "label": "Range",
+      "value": "~8,900 km"
+    },
+    {
+      "label": "Crew",
+      "value": "~11"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

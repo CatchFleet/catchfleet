@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The trijet that built the US domestic network: three engines on the tail, a T-tail, and built-in airstairs for airports with nothing. A few dozen freighters and special ships still earn their keep.",
+    "The center S-duct intake above the fuselage is the classic silhouette of 1970s aviation."
+  ],
+  "funFacts": [
+    "First flight: July 27, 1967 (-200).",
+    "Over 1,800 727s were built in total.",
+    "Its rear airstairs became famous in the D.B. Cooper case."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x JT8D"
+    },
+    {
+      "label": "Range",
+      "value": "~4,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 189"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-727-family.png",
+    "alt": "727 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 727 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_727_family_v1.0.png"
+  }
+}

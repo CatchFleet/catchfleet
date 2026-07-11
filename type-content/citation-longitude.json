@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Cessna's flagship stretches the Latitude concept into the super-midsize class: quieter, longer-legged and topped with big winglets. It is the biggest Citation yet built.",
+    "Its transatlantic-capable range produces long clean tracks that look great in a sightings list."
+  ],
+  "funFacts": [
+    "First flight: October 8, 2016.",
+    "The largest Citation ever produced.",
+    "Claimed the quietest cabin in its class at launch."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "HTF7700L"
+    },
+    {
+      "label": "Range",
+      "value": "~6,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 12"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

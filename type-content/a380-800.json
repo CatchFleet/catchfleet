@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The only full double-deck airliner ever built, and the largest passenger aircraft in history. Production ended in 2021, but the survivors returned from desert storage because passengers simply love them.",
+    "You will hear the strange part on ADS-B days: something this enormous approaches in near silence, then fills the entire sky."
+  ],
+  "funFacts": [
+    "First flight: April 27, 2005.",
+    "Wingspan of nearly 80 meters, wider than a football field is long.",
+    "Emirates operates the vast majority of the world's fleet."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x Trent 900 / GP7200"
+    },
+    {
+      "label": "Range",
+      "value": "~14,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 615"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a380-800.png",
+    "alt": "A380-800 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A380-800",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A380-800_v1.0.png"
+  }
+}

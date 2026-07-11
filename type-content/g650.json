@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The G650 is Gulfstream's flagship: a purpose-built ultra-long-range jet that cruises at Mach 0.925, making it one of the fastest civil aircraft flying since Concorde retired. The G650ER stretches the range past 13,800 km.",
+    "In 2015 a G650ER flew from White Plains to Beijing in under 12 hours, one of dozens of city-pair records the type holds. If your station caught one, it was probably in a hurry."
+  ],
+  "funFacts": [
+    "First flight: November 25, 2009.",
+    "Holds 100+ city-pair speed records.",
+    "Won the 2014 Collier Trophy."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "RR BR725"
+    },
+    {
+      "label": "Range",
+      "value": "~13,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 19"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "When it flew in 2001 this was the longest airliner ever built, a 75-meter four-engined giant with Trent 500s. High fuel costs ended its career early, and active airframes are now genuinely scarce.",
+    "So long that a tail camera was fitted just to help pilots taxi without scrubbing the main gear on turns."
+  ],
+  "funFacts": [
+    "First flight: April 23, 2001.",
+    "At 75.36 m it held the world length record until the 747-8.",
+    "Has an underfloor galley and crew area below the passenger deck."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x Trent 500"
+    },
+    {
+      "label": "Range",
+      "value": "~14,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 380"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a340-600.png",
+    "alt": "A340-600 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A340-600",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A340-600_v1.0.png"
+  }
+}

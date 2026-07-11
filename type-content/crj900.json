@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The 90-seat CRJ is the family's workhorse survivor: newer, bigger and still ordered long after smaller CRJs faded. Delta Connection and Lufthansa CityLine kept fleets busy for decades.",
+    "Its extra emergency exits over the wing separate it from a CRJ700 if you ever see one parked."
+  ],
+  "funFacts": [
+    "First flight: February 21, 2001.",
+    "The most numerous CRJ still in service.",
+    "The basis of the final CRJ550 conversion concept."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-8C5"
+    },
+    {
+      "label": "Range",
+      "value": "~2,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 90"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

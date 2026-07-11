@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original Beluga: an A300-600 rebuilt with a bulbous upper fuselage to ferry aircraft sections between Airbus factories. Only five exist, and they fly almost nowhere except Airbus's own network.",
+    "Catching one outside western Europe is a genuine event; catching one at all earns bragging rights."
+  ],
+  "funFacts": [
+    "First flight: September 13, 1994.",
+    "Carries complete wings and fuselage sections between Airbus plants.",
+    "Officially the Super Transporter, universally called the Beluga."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF6-80C2"
+    },
+    {
+      "label": "Range",
+      "value": "~2,800 km loaded"
+    },
+    {
+      "label": "Payload",
+      "value": "~47 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a300-beluga.png",
+    "alt": "A300-600ST Beluga descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A300-600ST Beluga",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A300_Beluga_v1.0.png"
+  }
+}

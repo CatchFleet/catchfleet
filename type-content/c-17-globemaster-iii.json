@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Globemaster III is the West's strategic airlift workhorse: it hauls tanks across oceans, then lands them on short rough strips using huge flaps blown by engine exhaust.",
+    "Military ADS-B behavior varies, which makes every C-17 catch feel a little like intercepting a secret."
+  ],
+  "funFacts": [
+    "First flight: September 15, 1991.",
+    "Can back up under its own power using thrust reversers.",
+    "279 built for the US and eight partner nations."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x F117-PW-100"
+    },
+    {
+      "label": "Range",
+      "value": "~4,400 km loaded"
+    },
+    {
+      "label": "Payload",
+      "value": "~77 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

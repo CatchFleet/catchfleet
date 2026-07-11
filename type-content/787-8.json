@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original Dreamliner brought composite fuselages, big dimmable windows and bleedless engines to long-haul. The -8 is the smallest of the family and the one that opened thin long routes worldwide.",
+    "The four-serration chevron nacelles and gently flexed wing give any 787 away at altitude."
+  ],
+  "funFacts": [
+    "First flight: December 15, 2009.",
+    "Roughly half the airframe by weight is composite.",
+    "Launched the point-to-point long-haul revolution."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GEnx / Trent 1000"
+    },
+    {
+      "label": "Range",
+      "value": "~13,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 248"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-787-800-dreamliner.png",
+    "alt": "787-8 Dreamliner descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 787-8 Dreamliner",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_787-800_Dreamliner_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The -200 kept the small Dash 8 body and added more powerful engines for hot, high and heavy work. It is the specialist's specialist among regional turboprops.",
+    "Survivors cluster around demanding niches: surveillance conversions, island freight, mountain strips."
+  ],
+  "funFacts": [
+    "First flight: 1995 (as the re-engined -100 successor).",
+    "Same size as the -100 with substantially more power.",
+    "Several serve as maritime patrol conversions."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW123C turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 39"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

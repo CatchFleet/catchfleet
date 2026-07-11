@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The sweet spot of US regional flying: scope clauses in pilot contracts made the E175 the biggest jet regionals could operate, so hundreds fill American skies every day.",
+    "Post-2014 airframes wear big raked winglets that improve fuel burn and make the type easy to age at a glance."
+  ],
+  "funFacts": [
+    "First flight: June 14, 2003.",
+    "The default large regional jet of North America.",
+    "The E75L and E75S codes distinguish long and short wingtips."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-8E"
+    },
+    {
+      "label": "Range",
+      "value": "~4,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 88"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

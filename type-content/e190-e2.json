@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The second-generation E190 got new geared turbofans, a new wing and fly-by-wire, cutting fuel burn dramatically. Fewer were sold than expected, making it rarer than its E195-E2 sibling.",
+    "The E2's engines look almost comically large on the airframe, the visual signature of the whole generation."
+  ],
+  "funFacts": [
+    "First flight: May 23, 2016.",
+    "Its mascot livery tradition features animals on the nose.",
+    "Double-digit fuel savings over the first generation."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW1900G"
+    },
+    {
+      "label": "Range",
+      "value": "~5,300 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 114"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

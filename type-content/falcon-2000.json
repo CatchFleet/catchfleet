@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Falcon 2000 is Dassault's twin-engine take on the Falcon 900 trijet: same wide cabin, two engines, transatlantic range. Fighter DNA shows in the handling, a Dassault trademark.",
+    "The series kept growing: EX brought new engines, LX added winglets, and the line is still in production. F2TH covers the whole family, so your catch spans three decades of Falcons."
+  ],
+  "funFacts": [
+    "First flight: March 4, 1993.",
+    "Over 600 Falcon 2000s delivered.",
+    "Dassault also builds the Rafale fighter, and it shows in the wing."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW308C"
+    },
+    {
+      "label": "Range",
+      "value": "~7,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 10"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "trivia": [
+    "The “neo” stands for New Engine Option: Airbus took its best-selling A320 and fitted it with a new generation of engines (CFM LEAP-1A or Pratt & Whitney PW1100G geared turbofan), cutting fuel burn per seat by roughly 20%. It entered service with Lufthansa in January 2016 and quickly became the backbone of short-haul fleets everywhere.",
+    "Spotters know the family by ear: listen for the famous “barking dog”, a rhythmic growl from the hydraulic power transfer unit that echoes across the apron while an A320 taxis. The neo is much quieter in the air than its predecessor, but the dog still barks."
+  ],
+  "funFacts": [
+    "First flight: September 25, 2014.",
+    "The A320 family is the best-selling airliner family in history.",
+    "Those curved wingtips are called sharklets, standard on every neo."
+  ],
+  "specs": [
+    { "label": "Engines", "value": "LEAP-1A / PW1100G" },
+    { "label": "Range", "value": "~6,300 km" },
+    { "label": "Seats", "value": "up to 194" }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/a320neo.png",
+    "alt": "Airbus A320 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A320 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320_v1.0.png"
+  }
+}

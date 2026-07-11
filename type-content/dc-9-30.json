@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The definitive short-haul jet of the 1960s and 70s: T-tail, rear engines, and self-sufficient airstairs for small airports. Its DNA ran unbroken through the MD-80, MD-90 and 717.",
+    "Practically extinct in service, which is exactly why the identity is preserved: catches deserve names even when history has moved on."
+  ],
+  "funFacts": [
+    "First flight: August 1, 1966.",
+    "The most numerous DC-9 type, with over 600 built.",
+    "Founded a fuselage lineage that lasted 40 years."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "JT8D"
+    },
+    {
+      "label": "Range",
+      "value": "~2,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 115"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

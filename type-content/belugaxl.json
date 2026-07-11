@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Beluga's bigger successor, built from an A330 and roomy enough to swallow two A350 wings at once. Airbus let the public vote on the livery: the smiling whale face won by a landslide.",
+    "Six were built, all working the internal Airbus shuttle, so its route network is tiny and wonderfully predictable."
+  ],
+  "funFacts": [
+    "First flight: July 19, 2018.",
+    "The smile-and-eyes livery won a staff vote with 40% of ballots.",
+    "30% more cargo volume than the original Beluga."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 700"
+    },
+    {
+      "label": "Range",
+      "value": "~4,000 km loaded"
+    },
+    {
+      "label": "Payload",
+      "value": "~51 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

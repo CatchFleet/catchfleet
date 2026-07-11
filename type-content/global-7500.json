@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Bombardier's flagship flies farther than any business jet before it: 7,700 nautical miles, four cabin zones and a full bedroom. It routinely appears at extreme range from anywhere.",
+    "Ultra-long-range corporate jets produce wonderfully weird ADS-B geometry: nonstop tracks between cities no airline connects."
+  ],
+  "funFacts": [
+    "First flight: November 4, 2016.",
+    "Holds the record for the longest-range purpose-built business jet.",
+    "GE Passport engines were developed specifically for it."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE Passport"
+    },
+    {
+      "label": "Range",
+      "value": "~14,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 19"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

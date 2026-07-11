@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The last mainline airliner from the company that taught the world to build airliners. Quiet Rolls-Royce Tays and honest engineering kept it in service long after Fokker itself vanished in 1996.",
+    "Australia is the type's unlikely sanctuary: Alliance Airlines built the world's largest remaining fleet for mining charters."
+  ],
+  "funFacts": [
+    "First flight: November 30, 1986.",
+    "Fokker's final and largest jetliner.",
+    "Alliance Airlines in Australia keeps dozens flying."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Tay 650"
+    },
+    {
+      "label": "Range",
+      "value": "~3,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 109"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

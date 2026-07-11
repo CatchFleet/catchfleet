@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The largest aircraft in the US Air Force: a re-engined giant that kneels on its landing gear to load cargo through both nose and tail. Only 52 exist, all upgraded from Cold War C-5s.",
+    "Its size distorts intuition on approach: it seems to hang motionless, and it is simply enormous and far away."
+  ],
+  "funFacts": [
+    "First flight: June 19, 2006 (C-5M configuration).",
+    "The nose swings up so vehicles can drive through the fuselage.",
+    "Can carry two main battle tanks at once."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x F138-GE-100"
+    },
+    {
+      "label": "Range",
+      "value": "~8,900 km loaded"
+    },
+    {
+      "label": "Payload",
+      "value": "~127 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

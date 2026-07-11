@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Avro RJ100 is the longest of the Avro regional jets, a stretched whisper-jet that Swiss and Brussels Airlines flew into the 2010s on dense European routes.",
+    "When the line closed in 2003 it ended more than eighty years of complete airliner production in the UK. The survivors fly on with charter and government operators, so the type is still catchable."
+  ],
+  "funFacts": [
+    "First flight: May 13, 1992 (RJ100).",
+    "The last complete airliner built in the United Kingdom.",
+    "Swiss flew RJ100s into London City for two decades."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x LF507"
+    },
+    {
+      "label": "Range",
+      "value": "~2,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "~100"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/bae-146.png",
+    "alt": "BAe 146 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · BAe 146 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BAe_146_v1.0.png"
+  }
+}

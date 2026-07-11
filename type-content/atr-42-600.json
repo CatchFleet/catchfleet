@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The current small ATR pairs the classic airframe with a glass cockpit borrowed from its bigger sibling. It exists for one mission: the world's shortest, thinnest, most stubborn routes.",
+    "The -600 series' giveaway is on the flight deck, not the skin, so ADS-B evidence is exactly how you tell one from a -500."
+  ],
+  "funFacts": [
+    "First flight: March 4, 2010.",
+    "Shares its avionics with the ATR 72-600.",
+    "An STOL-optimized 42-600S version was developed for tiny runways."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW127M turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,300 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 50"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/atr-family.png",
+    "alt": "ATR family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · ATR family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATR_family_v1.0.png"
+  }
+}

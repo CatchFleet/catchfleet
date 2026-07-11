@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The longest CRJ pushed the Challenger-derived fuselage to 104 seats, and the market decided that was one stretch too far: only around 60 exist, concentrated in a few European and Asian fleets.",
+    "Rare type, few operators, predictable routes: a perfect example of how operator knowledge helps you hunt."
+  ],
+  "funFacts": [
+    "First flight: September 3, 2008.",
+    "Only about 60 were ever delivered.",
+    "The final and largest evolution of the CRJ line."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-8C5A1"
+    },
+    {
+      "label": "Range",
+      "value": "~3,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 104"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

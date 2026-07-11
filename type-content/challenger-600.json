@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Challenger 600 series began as Bill Lear's LearStar 600 concept: give passengers a wide-body cabin in a business jet. Canadair bought the design, flew it in 1978, and the wide cabin defined the class for decades.",
+    "The series evolved through the 601, 604, and 605 into today's Challenger 650, and the CL60 code covers them all. The same airframe also grew into the CRJ regional jet family, so this catch has airline cousins."
+  ],
+  "funFacts": [
+    "First flight: November 8, 1978.",
+    "Over 1,100 aircraft built across the 600 series.",
+    "The CRJ100 regional jet is a stretched Challenger."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE CF34-3B"
+    },
+    {
+      "label": "Range",
+      "value": "~7,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 12"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

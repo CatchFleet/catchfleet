@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Four nations built Europe's delta-canard air superiority fighter, and it now guards airspace from the North Sea to the Gulf. Quick Reaction Alert scrambles occasionally gift it to lucky antennas.",
+    "If a Typhoon appears in your log with unusual speed and climb figures, you may have caught someone's very bad day being intercepted."
+  ],
+  "funFacts": [
+    "First flight: March 27, 1994.",
+    "Built jointly by the UK, Germany, Italy and Spain.",
+    "Can supercruise above Mach 1 without afterburner."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x EJ200"
+    },
+    {
+      "label": "Speed",
+      "value": "~Mach 2"
+    },
+    {
+      "label": "Role",
+      "value": "Multirole fighter"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

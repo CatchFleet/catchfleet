@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Airbus's carbon-fiber flagship: over half the airframe is composite, and its Trent XWB is often called the most efficient large turbofan flying. It owns many of the world's longest routes.",
+    "The curved black cockpit mask gives every A350 a raccoon face you can identify from the terminal in a second."
+  ],
+  "funFacts": [
+    "First flight: June 14, 2013.",
+    "Flies ultra-long-haul routes over 15,000 km nonstop.",
+    "53% of the structure is carbon-fiber composite."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent XWB-84"
+    },
+    {
+      "label": "Range",
+      "value": "~15,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 350"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The flying wing that redefined what aircraft can be: no tail, no fuselage, nearly invisible to radar. Around 19 exist, each named after a US state, each worth more than most airlines.",
+    "A stealth bomber in a hobbyist's log book is the ultimate irony catch: transponders on, mystery off."
+  ],
+  "funFacts": [
+    "First flight: July 17, 1989.",
+    "Each aircraft is named Spirit of a US state.",
+    "Its wingspan matches the 1940s YB-49 flying wing almost exactly."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x F118-GE-100"
+    },
+    {
+      "label": "Range",
+      "value": "~11,000 km"
+    },
+    {
+      "label": "Role",
+      "value": "Stealth bomber"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

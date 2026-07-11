@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The smallest E-Jet brought real-airline comfort to the 70-seat market: four-abreast seating with no middle seat anywhere on the airplane, a formula the whole family inherited.",
+    "Regional liveries change often, so the same E170 airframe may reappear in your Fleet wearing new colors year to year."
+  ],
+  "funFacts": [
+    "First flight: February 19, 2002.",
+    "No middle seats anywhere in the cabin.",
+    "Launched Embraer's rise to the world's third-largest airliner maker."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-8E"
+    },
+    {
+      "label": "Range",
+      "value": "~3,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 78"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

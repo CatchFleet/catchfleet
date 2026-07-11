@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched A350 is Airbus's biggest twin, aimed straight at the 777. It needs more muscle, so it carries the most powerful engine Rolls-Royce has ever built for Airbus and a six-wheel main gear.",
+    "Count the wheels: the -1000 rides on six-wheel bogies, the -900 on four. That is the fastest tell."
+  ],
+  "funFacts": [
+    "First flight: November 24, 2016.",
+    "Chosen for Qantas's planned nonstop Sydney to London flights.",
+    "Trent XWB-97 delivers 97,000 lbf of thrust per side."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent XWB-97"
+    },
+    {
+      "label": "Range",
+      "value": "~16,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 410"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Q400 is the hot rod of turboprops: nearly jet speeds on propeller economics. It cruises 100 km/h faster than an ATR 72 and shows it, holding its own in jet arrival flows.",
+    "Its speed makes it easy to misjudge as a jet in your data until the type resolves, a satisfying little reveal."
+  ],
+  "funFacts": [
+    "First flight: January 31, 1998.",
+    "Cruises around 667 km/h, close to regional jets.",
+    "The Q stands for quiet, thanks to active noise suppression."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW150A turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~2,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 90"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

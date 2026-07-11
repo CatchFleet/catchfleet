@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Dornier 328 is a hot rod among turboprops: a fast, high-flying 30-seater with a supercritical wing, built in Bavaria in the 1990s. Regional pilots loved the speed; accountants preferred bigger types, so production stayed small.",
+    "The design refuses to die. US operators kept fleets flying for decades, and the D328eco program aims to restart production in Germany with modern systems."
+  ],
+  "funFacts": [
+    "First flight: December 6, 1991.",
+    "One of the fastest turboprops of its size, ~620 km/h cruise.",
+    "Just over 100 turboprop 328s were built."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW119B"
+    },
+    {
+      "label": "Range",
+      "value": "~1,300 km"
+    },
+    {
+      "label": "Seats",
+      "value": "~32"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

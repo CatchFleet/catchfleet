@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The longest 737s of the NG era. The original -900 sold poorly; the ER version added exits and fuel to finally take on the A321, and Delta, United and Alaska bought it in bulk.",
+    "The Dex treats both as one type because their shared designator cannot be told apart from the signal alone, honest uncertainty in action."
+  ],
+  "funFacts": [
+    "First flights: August 3, 2000 (-900) and September 1, 2006 (-900ER).",
+    "The ER's extra exit pair allows up to 220 seats.",
+    "The longest 737s until the MAX 10."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56-7B"
+    },
+    {
+      "label": "Range",
+      "value": "~5,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 220"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-737-900.png",
+    "alt": "737-900 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 737-900",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-900_v1.0.png"
+  }
+}

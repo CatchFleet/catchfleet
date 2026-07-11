@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched 737 Classic filled the gap between the -300 and the NG era. Passenger examples are gone from most skies, but freighter conversions keep the type alive on night cargo runs.",
+    "The Classic's giveaway is the older, rounder nacelle and bare wingtips: no 737-400 ever wore winglets."
+  ],
+  "funFacts": [
+    "First flight: February 19, 1988.",
+    "A favorite airframe for freighter conversion.",
+    "The largest of the three 737 Classic types."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56-3"
+    },
+    {
+      "label": "Range",
+      "value": "~4,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 168"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-737-400.png",
+    "alt": "737-400 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 737-400",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-400_v1.0.png"
+  }
+}

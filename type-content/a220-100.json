@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Born as the Bombardier CSeries CS100 in Canada, this clean-sheet small airliner became the A220-100 when Airbus took over the program in 2018. Its Pratt & Whitney geared turbofans make it one of the quietest jets at any gate.",
+    "Spotters pick it out by the tall, curved nose and the huge passenger windows, unusually large for a jet this size."
+  ],
+  "funFacts": [
+    "First flight: September 16, 2013, as the CSeries CS100.",
+    "The only Airbus family that was designed entirely outside Airbus.",
+    "Its GTF engines cut noise footprint dramatically compared to older regional jets."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW1500G geared turbofan"
+    },
+    {
+      "label": "Range",
+      "value": "~6,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 135"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

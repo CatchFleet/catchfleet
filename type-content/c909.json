@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The C909 is China's first homegrown jet airliner to reach service, originally launched as the ARJ21. It flew in 2008, entered service with Chengdu Airlines in 2016, and was renamed C909 in 2024 to sit beside the larger C919.",
+    "The type rarely leaves Asia, so a European station catching one is a story worth telling. Regional operators across China and Southeast Asia fly it on short, dense routes."
+  ],
+  "funFacts": [
+    "First flight: November 28, 2008.",
+    "Renamed from ARJ21 to C909 in November 2024.",
+    "150+ delivered, almost all flying in Asia."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE CF34-10A"
+    },
+    {
+      "label": "Range",
+      "value": "~3,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "~90"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

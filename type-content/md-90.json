@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The quietest member of the DC-9 lineage swapped old JT8Ds for big V2500s. It sold modestly, retired early, and found unexpected fame when NASA chose one as the bones of its X-66 research aircraft.",
+    "Only a couple of airframes remain airworthy, making this the deepest cut in the whole MD legacy section."
+  ],
+  "funFacts": [
+    "First flight: February 22, 1993.",
+    "NASA's X-66 sustainable flight demonstrator is a converted MD-90.",
+    "V2500 engines made it dramatically quieter than the MD-80."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "V2525-D5"
+    },
+    {
+      "label": "Range",
+      "value": "~3,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 172"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

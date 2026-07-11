@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The shortened Fokker 100 arrived just as Fokker collapsed, so only 47 were built. A tiny faithful band of operators kept them flying decades past their maker.",
+    "Catching a Fokker 70 means catching an airframe from a company that no longer exists, aviation's ghost signals."
+  ],
+  "funFacts": [
+    "First flight: April 4, 1993.",
+    "Only 47 were ever built.",
+    "Fokker went bankrupt in 1996, three years after its first flight."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Tay 620"
+    },
+    {
+      "label": "Range",
+      "value": "~3,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 80"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

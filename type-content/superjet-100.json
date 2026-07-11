@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Superjet 100 was the first clean-sheet Russian airliner after the Soviet era, flown in 2008 with SaM146 engines built jointly by France's Safran and Russia's Saturn. Aeroflot became the dominant operator.",
+    "Sanctions pushed the program toward fully Russian systems, so the fleet now flies almost entirely inside Russia and a few friendly markets. Catching one outside that footprint is a rare stamp."
+  ],
+  "funFacts": [
+    "First flight: May 19, 2008.",
+    "Around 200 built; most fly within Russia.",
+    "The SaM146 engine was a French-Russian joint venture."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "SaM146"
+    },
+    {
+      "label": "Range",
+      "value": "~4,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "~98"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

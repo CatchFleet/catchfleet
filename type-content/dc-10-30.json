@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The intercontinental DC-10 carried the widebody revolution to the world with three engines and a center main gear leg. Passenger service is history; the identity endures for the airframes that made it.",
+    "That third gear leg under the belly is the -30's signature, added to carry intercontinental fuel loads."
+  ],
+  "funFacts": [
+    "First flight: June 21, 1972.",
+    "The extra center landing gear distinguishes the -30.",
+    "Its lineage continued through the KC-10 tanker."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x CF6-50"
+    },
+    {
+      "label": "Range",
+      "value": "~10,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 380"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/mcdonnell-douglas-dc-10-30.png",
+    "alt": "DC-10-30 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · DC-10-30",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_DC-10-30_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The shorter, longer-legged A330 was Airbus's answer to the 767: a twin widebody with true intercontinental range. Many now serve as government transports and freighter conversions.",
+    "Spot the -200 by its stubbier body and taller vertical fin compared to the -300."
+  ],
+  "funFacts": [
+    "First flight: August 13, 1997.",
+    "The basis of the A330 MRTT tanker used by air forces worldwide.",
+    "Shares its wing with the four-engined A340."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 700 / CF6 / PW4000"
+    },
+    {
+      "label": "Range",
+      "value": "~13,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 290"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a330-200.png",
+    "alt": "A330-200 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A330-200",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A330-200_v1.0.png"
+  }
+}

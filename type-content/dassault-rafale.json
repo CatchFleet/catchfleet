@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Dassault's omnirole fighter does everything from carrier decks to nuclear deterrence with one airframe. Its delta-canard shape and M88 engines made it one of Europe's export success stories.",
+    "Fighter transponder behavior varies with mission, so every Rafale in a civilian hobby log is a small ceremony."
+  ],
+  "funFacts": [
+    "First flight: May 19, 1991 (Rafale C).",
+    "Flies from both land bases and aircraft carriers.",
+    "The name means gust of wind."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x M88-2"
+    },
+    {
+      "label": "Speed",
+      "value": "~Mach 1.8"
+    },
+    {
+      "label": "Role",
+      "value": "Omnirole fighter"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

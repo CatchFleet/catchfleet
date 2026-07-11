@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The rarest passenger 767: a double stretch with raked wingtips and a redesigned cockpit, built almost exclusively for Delta and Continental. Only 37 airframes exist, plus a couple of military testbeds.",
+    "The raked wingtips, unique among 767s, identify a -400ER instantly."
+  ],
+  "funFacts": [
+    "First flight: October 9, 1999.",
+    "Just 37 delivered, to only two airlines.",
+    "Introduced the raked wingtip later seen on the 787."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF6-80C2"
+    },
+    {
+      "label": "Range",
+      "value": "~10,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 296"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-767-family.png",
+    "alt": "767 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 767 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_767_family_v1.0.png"
+  }
+}

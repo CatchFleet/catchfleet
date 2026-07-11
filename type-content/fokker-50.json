@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The F27 Friendship's modern successor carried Fokker's turboprop lineage into the 1990s with six-blade props and PW125 power. Survivors haul cargo and passengers in Africa and Asia.",
+    "Its ancestor the F27 was one of history's best-selling turboprops; the 50 is that bloodline's final chapter."
+  ],
+  "funFacts": [
+    "First flight: December 28, 1985.",
+    "Successor to the legendary F27 Friendship.",
+    "Several serve as maritime patrol aircraft."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW125B turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~2,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 58"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

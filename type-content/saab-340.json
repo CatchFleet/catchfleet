@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Sweden's 34-seat turboprop became a quiet global workhorse: regional passenger runs, then cargo and special missions. Australia and the Americas keep large fleets earning daily.",
+    "Saab left civil aviation in 1999, so every 340 is a survivor of an abandoned product line, still utterly dependable."
+  ],
+  "funFacts": [
+    "First flight: January 25, 1983.",
+    "Over 450 were built in Linköping, Sweden.",
+    "Many now fly as freighters and surveillance platforms."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x CT7-9B turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 37"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

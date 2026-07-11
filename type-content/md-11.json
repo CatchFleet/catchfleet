@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The last McDonnell Douglas widebody: a stretched, winglet-wearing DC-10 successor with a two-crew cockpit. Passenger service has ended; the type identity survives through its famous freighter descendants.",
+    "The Dex records this passenger identity separately from the MD-11F, whose big cargo fleet is its own future entry."
+  ],
+  "funFacts": [
+    "First flight: January 10, 1990.",
+    "The last trijet airliner built in the West.",
+    "Its winglets were cutting-edge for 1990."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x CF6 / PW4460"
+    },
+    {
+      "label": "Range",
+      "value": "~12,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 410"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/mcdonnell-douglas-md-11.png",
+    "alt": "MD-11 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · MD-11",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-11_v1.0.png"
+  }
+}

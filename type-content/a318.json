@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The baby of the A320 family never sold well as an airliner, but it found fame flying steep approaches into London City and a second life as a corporate jet. Survivors are scattered and getting scarce.",
+    "Its stubby body with the full-size A320 tail makes the proportions look slightly cartoonish, which is exactly how you identify it."
+  ],
+  "funFacts": [
+    "First flight: January 15, 2002.",
+    "Certified for the 5.5-degree steep approach into London City.",
+    "Only around 80 were ever built."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56 / PW6000"
+    },
+    {
+      "label": "Range",
+      "value": "~5,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 132"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a318.png",
+    "alt": "A318 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A318",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A318_v1.0.png"
+  }
+}

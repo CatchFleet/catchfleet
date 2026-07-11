@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The shortened ERJ is a 37-seater that bridged airline flying and corporate shuttles. Many now serve charter and government roles, so its appearances can be delightfully unpredictable.",
+    "Shares everything with the ERJ-145 except length, which is why the resolver treats their codes with care."
+  ],
+  "funFacts": [
+    "First flight: July 4, 1998.",
+    "Basis of the Legacy 600 business jet lineage.",
+    "Just 37 seats, three abreast."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "AE3007"
+    },
+    {
+      "label": "Range",
+      "value": "~3,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 37"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/embraer-erj-family.png",
+    "alt": "ERJ family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · ERJ family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Embraer_ERJ_family_v1.0.png"
+  }
+}

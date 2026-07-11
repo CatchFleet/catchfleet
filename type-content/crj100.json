@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original Canadair Regional Jet started the regional jet revolution in 1991: a Challenger business jet stretched into a 50-seat airliner. Almost none remain active.",
+    "A CRJ100 catch today is essentially aviation archaeology, and worth a screenshot."
+  ],
+  "funFacts": [
+    "First flight: May 10, 1991.",
+    "The aircraft that launched the term 'regional jet'.",
+    "Built directly from the Challenger 600 cross-section."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-3A1"
+    },
+    {
+      "label": "Range",
+      "value": "~2,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 50"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The biggest Embraer ever built and the E2 family's best seller. Porter's jet fleet and Azul's trunk routes proved a 146-seat regional jet can do mainline work.",
+    "The longest E-Jet plus giant GTF nacelles: once you see one, you stop confusing E2s with first-generation jets forever."
+  ],
+  "funFacts": [
+    "First flight: March 29, 2017.",
+    "The largest airliner ever built in Brazil.",
+    "Its 'Profit Hunter' demonstrators wore shark and eagle faces."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW1900G"
+    },
+    {
+      "label": "Range",
+      "value": "~4,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 146"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

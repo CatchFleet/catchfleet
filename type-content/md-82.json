@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Super 80 stretched the DC-9 into the deregulation era's favorite jet. American Airlines alone flew hundreds. Today a hardy few soldier on with charter and cargo operators, mostly in the Americas.",
+    "The long, impossibly slim body with tiny tail-mounted engines earned the family its nickname: the Long Beach pencil."
+  ],
+  "funFacts": [
+    "First flight: January 8, 1981 (MD-80 series).",
+    "American Airlines operated over 360 MD-80s at peak.",
+    "Its five-abreast cabin was a passenger favorite."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "JT8D-217"
+    },
+    {
+      "label": "Range",
+      "value": "~3,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 172"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/mcdonnell-douglas-md-82.png",
+    "alt": "MD-82 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · MD-82",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-82_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Worldliner was built to connect any two cities on Earth nonstop, and in 2005 it proved it with a 21,600 km delivery flight, still among the longest by a commercial airliner.",
+    "Few were built because few routes need this much range, which makes every LR a quality catch."
+  ],
+  "funFacts": [
+    "First flight: March 8, 2005.",
+    "Set a distance record flying Hong Kong to London the long way east.",
+    "The basis of the 777F freighter."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE90-110B"
+    },
+    {
+      "label": "Range",
+      "value": "~15,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 317"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-777-family.png",
+    "alt": "777 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 777 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.0.png"
+  }
+}

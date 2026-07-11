@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The modernized 42 brought six-blade props and PW127 power to the small ATR, keeping 48-seat turboprop flying alive on islands, mountains and short strips worldwide.",
+    "Turboprops fly low and slow, which paradoxically makes them harder for distant antennas: an ATR catch says something about your setup."
+  ],
+  "funFacts": [
+    "First flight: September 16, 1994.",
+    "Six-blade propellers cut cabin noise dramatically.",
+    "A favorite for island-hopping networks."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW127E turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 48"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/atr-family.png",
+    "alt": "ATR family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · ATR family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATR_family_v1.0.png"
+  }
+}

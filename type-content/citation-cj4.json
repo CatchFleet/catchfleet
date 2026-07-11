@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The largest of the CJ light jets adds a swept wing borrowed from bigger Citations. It became the default owner-flown serious jet: fast, efficient and everywhere.",
+    "CJ4s connect small airports directly, so they enrich a Fleet with airfields airliners never touch."
+  ],
+  "funFacts": [
+    "First flight: May 5, 2008.",
+    "Swept wing derived from the Citation Sovereign.",
+    "Still single-pilot certified despite its size."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "FJ44-4A"
+    },
+    {
+      "label": "Range",
+      "value": "~4,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 10"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

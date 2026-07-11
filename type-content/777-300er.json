@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The queen of long-haul twins. Its GE90-115B remains among the most powerful jet engines ever certified, and for fifteen years this was the airplane on nearly every flagship route on Earth.",
+    "Listen for it: the GE90's low churning growl on approach is a spotter favorite, and the sheer size of the engine is visible from remarkable distances."
+  ],
+  "funFacts": [
+    "First flight: February 24, 2003.",
+    "The GE90-115B holds thrust records at over 115,000 lbf.",
+    "Around 830 built, the best-selling 777."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GE90-115B"
+    },
+    {
+      "label": "Range",
+      "value": "~13,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 396"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-777-family.png",
+    "alt": "777 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 777 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.0.png"
+  }
+}

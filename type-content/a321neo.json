@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The re-engined A321 is the airplane airlines cannot get enough of: single-aisle economics with range that started eating routes widebodies used to fly. LR and XLR derivatives push it across oceans.",
+    "Look for the sharklets plus the distinctive geared-turbofan hum on departure, deeper and softer than the old V2500 crackle."
+  ],
+  "funFacts": [
+    "First flight: February 9, 2016.",
+    "The best-selling type of the entire neo program.",
+    "Its cabin flex doors allow layouts up to 244 seats."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "LEAP-1A / PW1100G"
+    },
+    {
+      "label": "Range",
+      "value": "~7,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 244"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a321.png",
+    "alt": "A321 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A321",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A321_v1.0.png"
+  }
+}

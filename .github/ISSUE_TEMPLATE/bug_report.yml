@@ -1,0 +1,48 @@
+name: Bug report
+description: Something broke in the game, the Listener, or the setup flow.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. **Bug reports and setup-friction notes are the
+        most valuable contribution during the Alfa.** For security problems,
+        please use private vulnerability reporting (Security tab) instead of
+        a public issue.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect instead?
+      placeholder: The dashboard listener card kept showing OFFLINE even though the Listener was posting…
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where?
+      description: A page URL on playcatchfleet.com, or "Listener" if it happened in the terminal.
+      placeholder: https://playcatchfleet.com/dashboard
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Start the Listener
+        2. …
+  - type: textarea
+    id: station
+    attributes:
+      label: Station setup (for Listener/reception issues)
+      description: >
+        SDR, decoder (dump1090/readsb/other), OS, and Listener version
+        (printed at startup). Skip if this is a pure website bug. Please
+        don't include your station coordinates.
+      placeholder: RTL-SDR v3, readsb, Raspberry Pi OS, Listener v0.4.1
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Terminal output around the failure, or a screenshot. Remove your helper key (cfhlp_…) if it appears.

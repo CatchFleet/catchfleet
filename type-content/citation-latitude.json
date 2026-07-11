@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Cessna's first flat-floor stand-up cabin brought midsize comfort at a light-jet price, and charter giant NetJets bought them by the hundred. That makes it unusually catchable for a business jet.",
+    "Fractional fleets fly constantly, so the Latitude may quietly become one of your most-seen business types."
+  ],
+  "funFacts": [
+    "First flight: February 18, 2014.",
+    "NetJets operates a huge fleet of them.",
+    "The first Citation with a completely flat cabin floor."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW306D1"
+    },
+    {
+      "label": "Range",
+      "value": "~5,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 9"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

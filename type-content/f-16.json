@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The F-16 Fighting Falcon, known to its pilots as the Viper, is the most numerous Western fighter ever built: about 4,600 airframes across dozens of blocks and licensed lines. It began as a lightweight day fighter and became everything.",
+    "Fighters rarely announce themselves on 1090 MHz, but training flights and ferry hops sometimes do. An F-16 in your Dex is the kind of catch you mention casually and often."
+  ],
+  "funFacts": [
+    "First flight: February 2, 1974 (accidentally, during a taxi test).",
+    "~4,600 built, flown by 25+ air forces.",
+    "Pilots call it the Viper, never the Fighting Falcon."
+  ],
+  "specs": [
+    {
+      "label": "Engine",
+      "value": "F110 / F100"
+    },
+    {
+      "label": "Top speed",
+      "value": "Mach 2+"
+    },
+    {
+      "label": "Crew",
+      "value": "1"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

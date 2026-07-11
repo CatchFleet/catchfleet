@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Global Express was Bombardier's 1990s bet that corporate jets could fly farther than airliners: launch to nonstop New York-Tokyo range. The family grew through the XRS into the Global 6000, all sharing the GLEX code.",
+    "The US Air Force flies Global Express airframes as the E-11A BACN, a communications relay nicknamed Wi-Fi in the sky, orbiting for hours to bridge radios across mountain ranges."
+  ],
+  "funFacts": [
+    "First flight: October 13, 1996.",
+    "Global 6000 is the 2011 rename of the Global Express XRS.",
+    "The E-11A relay version orbits at 40,000+ feet for 10+ hours."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "RR BR710"
+    },
+    {
+      "label": "Range",
+      "value": "~11,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 17"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

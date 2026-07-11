@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Citation CJ3 stretched the CJ2 into the sweet spot of the light-jet market: single-pilot certifiable, honest 3,700 km legs, and running costs that keep owner-pilots flying their own jet.",
+    "The CJ3+ update in 2014 swapped the panel for Garmin G3000 glass. C25B covers both, so your catch could be either generation; from the antenna they sound identical."
+  ],
+  "funFacts": [
+    "First flight: April 17, 2003.",
+    "Over 600 CJ3s and CJ3+s delivered.",
+    "Certified for a single pilot, rare in this class."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Williams FJ44-3A"
+    },
+    {
+      "label": "Range",
+      "value": "~3,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 9"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

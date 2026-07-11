@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The CJ2 stretched Cessna's single-pilot light jet formula, and the Plus added better engines and avionics. The Dex collects them as one series because their shared designator cannot split them.",
+    "Light jets are single-pilot certified, so the airplane overhead may have exactly one person aboard, flying their own jet."
+  ],
+  "funFacts": [
+    "First flight: April 27, 2000 (CJ2).",
+    "Certified for single-pilot operation.",
+    "Part of the best-selling business jet family in history."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "FJ44-3A-24"
+    },
+    {
+      "label": "Range",
+      "value": "~3,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 9"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

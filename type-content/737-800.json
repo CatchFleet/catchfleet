@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The best-selling Boeing airliner of all time: nearly five thousand built, and for two decades the default airplane of global short-haul. If your station hears jets at all, it hears -800s.",
+    "Blended winglets on most airframes and that unmistakable flat-bottomed CFM56 nacelle, squashed to clear the 737's low stance."
+  ],
+  "funFacts": [
+    "First flight: July 31, 1997.",
+    "Close to 5,000 were delivered, a single-type record.",
+    "Also serves as the P-8 Poseidon's airframe basis."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56-7B"
+    },
+    {
+      "label": "Range",
+      "value": "~5,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 189"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-737-800.png",
+    "alt": "737-800 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 737-800",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-800_v1.0.png"
+  }
+}

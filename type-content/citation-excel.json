@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Citation Excel answered a simple wish: a midsize cabin you can stand up in, on light-jet economics. Cessna shortened the Citation X fuselage, added the straight wing, and created one of the best-selling business jets in history.",
+    "Over a thousand Excels, XLSs, and XLS+s are flying, and charter fleets adore them. If a business jet crosses your station on a weekday morning, odds are decent it squawks C56X."
+  ],
+  "funFacts": [
+    "First flight: February 29, 1996, a leap-day debut.",
+    "1,000+ built across Excel, XLS, and XLS+.",
+    "Among the most chartered business jets in the world."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW545"
+    },
+    {
+      "label": "Range",
+      "value": "~3,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 9"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

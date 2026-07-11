@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched Dreamliner fixed everything: more seats, more range, better economics. It became the family's best seller and the default widebody of the 2020s.",
+    "From the ground a -9 and -8 are hard to split; on paper the -9 is six meters longer and flies noticeably farther."
+  ],
+  "funFacts": [
+    "First flight: September 17, 2013.",
+    "Flies some of the longest nonstop routes in the world.",
+    "The best-selling Dreamliner type."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "GEnx / Trent 1000"
+    },
+    {
+      "label": "Range",
+      "value": "~14,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 296"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-787-800-dreamliner.png",
+    "alt": "787-8 Dreamliner descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 787-8 Dreamliner",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_787-800_Dreamliner_v1.0.png"
+  }
+}

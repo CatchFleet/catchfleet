@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The only supersonic airliner to succeed in service: Mach 2 across the Atlantic for 27 years, London to New York in three and a half hours. Retired in 2003; never replaced.",
+    "Its droop nose lowered for landing so pilots could see the runway past that impossible delta profile."
+  ],
+  "funFacts": [
+    "First flight: March 2, 1969.",
+    "Cruised at Mach 2.04, twice the speed of sound.",
+    "Skin heat made the airframe stretch about 15 cm in flight."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x Olympus 593"
+    },
+    {
+      "label": "Speed",
+      "value": "Mach 2.04"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 128"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/concorde.png",
+    "alt": "Concorde descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · Concorde",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concorde_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The definitive Jumbo: winglets, a two-crew glass cockpit, and two decades as the flagship of nearly every major international airline. Passenger examples are now down to a precious few.",
+    "The hump needs no explanation; the -400's winglets separate it from earlier classics at any distance."
+  ],
+  "funFacts": [
+    "First flight: April 29, 1988.",
+    "First 747 with a two-crew cockpit.",
+    "Nearly 700 were built across all -400 versions."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x CF6 / PW4000 / RB211"
+    },
+    {
+      "label": "Range",
+      "value": "~13,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 524"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched CRJ brought 70 seats to the regional jet boom. Faster boarding, small airports, hub feed: it defined a whole tier of North American flying alongside the E170.",
+    "Long, low and slim with tail-mounted engines: the CRJ silhouette is unmistakable even at cruise."
+  ],
+  "funFacts": [
+    "First flight: May 27, 1999.",
+    "Derived from the Challenger business jet fuselage cross-section.",
+    "Hundreds still feed major US hubs daily."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-8C"
+    },
+    {
+      "label": "Range",
+      "value": "~3,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 78"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

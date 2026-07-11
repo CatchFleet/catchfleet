@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original stretched 777 was built to replace early 747s on dense Asian trunk routes. Its distinct B773 designator keeps it a separate catch from the far more common ER.",
+    "No raked wingtips, older engines, and mostly Asian operators: a non-ER 777-300 is a regional specialty."
+  ],
+  "funFacts": [
+    "First flight: October 16, 1997.",
+    "At launch it was the longest airliner in the world.",
+    "Only around 60 were built before the ER took over."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 892 / PW4098"
+    },
+    {
+      "label": "Range",
+      "value": "~11,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 368"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-777-family.png",
+    "alt": "777 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 777 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.0.png"
+  }
+}

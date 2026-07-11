@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The stretched A220 does mainline work in a small-jet body: transatlantic-capable range, a five-abreast cabin, and trip costs that let airlines open thin routes no larger jet could justify.",
+    "It has quietly become the version airlines actually order: the -300 outsells its smaller sibling many times over."
+  ],
+  "funFacts": [
+    "First flight: February 27, 2015, as the CSeries CS300.",
+    "airBaltic built its entire fleet around this single type.",
+    "Shares a type rating with the A220-100."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW1500G geared turbofan"
+    },
+    {
+      "label": "Range",
+      "value": "~6,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 160"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "China's first homegrown mainline jet took on the A320 and 737 duopoly. Its fleet is young, growing fast, and concentrated with Chinese carriers, making it a prized catch almost everywhere else.",
+    "For most of the world this is a genuinely rare type today; re-reviews will track how quickly that changes."
+  ],
+  "funFacts": [
+    "First flight: May 5, 2017.",
+    "Entered service with China Eastern in 2023.",
+    "Powered by the same LEAP engine family as the A320neo and 737 MAX."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "LEAP-1C"
+    },
+    {
+      "label": "Range",
+      "value": "~4,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 168"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

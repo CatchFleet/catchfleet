@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The very light jet that actually worked: while VLJ startups collapsed around it, the little Mustang quietly delivered 479 airframes of honest, tiny jet. Production ended in 2017.",
+    "A jet smaller than many turboprops, often flown by its owner to places big enough for a bakery and a runway."
+  ],
+  "funFacts": [
+    "First flight: April 23, 2005.",
+    "479 built before production ended in 2017.",
+    "One of the few very light jets to reach real market success."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW615F"
+    },
+    {
+      "label": "Range",
+      "value": "~2,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 5"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

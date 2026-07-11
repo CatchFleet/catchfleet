@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Europe's heavy tactical airlifter mixes turboprop ruggedness with jet-age size. Its four TP400s are the most powerful turboprops in the western world, swinging huge eight-blade scimitar props.",
+    "The props on each wing rotate toward each other, a rare down-between-engines arrangement that cancels torque and looks wonderfully odd head-on."
+  ],
+  "funFacts": [
+    "First flight: December 11, 2009.",
+    "Each TP400 engine produces over 11,000 shaft horsepower.",
+    "Can deliver cargo to rough dirt strips a jet could never use."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x TP400-D6 turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~8,900 km"
+    },
+    {
+      "label": "Payload",
+      "value": "~37 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

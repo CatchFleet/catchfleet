@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The last DC-9 descendant, born as the MD-95 and renamed when Boeing absorbed McDonnell Douglas. A small, tough twin that Delta and Hawaiian kept flying long after everyone expected.",
+    "T-tail, rear engines, and a stubby body: it looks like nothing else Boeing ever sold under its own name."
+  ],
+  "funFacts": [
+    "First flight: September 2, 1998.",
+    "The only Boeing jetliner never designed by Boeing.",
+    "Rolls-Royce BR715s made it remarkably quiet for its lineage."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "BR715"
+    },
+    {
+      "label": "Range",
+      "value": "~3,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 134"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-717.png",
+    "alt": "717 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 717",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_717_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The A330neo done right: same trusted airframe, new-generation Rolls-Royce engines, and a range boost that made it the default replacement for aging A330ceos, especially on leisure long-haul.",
+    "The giveaway is the sharklet: ceo A330s have small canted wingtip fences, neos wear tall curved blades."
+  ],
+  "funFacts": [
+    "First flight: October 19, 2017.",
+    "TAP Air Portugal was the launch operator.",
+    "About 25% better fuel burn per seat than early A330s."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 7000"
+    },
+    {
+      "label": "Range",
+      "value": "~13,300 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 300"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a330-family.png",
+    "alt": "A330 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A330 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A330_family_v1.1.png"
+  }
+}

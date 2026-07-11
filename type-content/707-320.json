@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Intercontinental version of the aircraft that started the jet age for the masses. Civil examples are essentially gone; what remains are memories, museums and a handful of special-purpose airframes.",
+    "A genuine 707 catch today would be a once-a-decade event for most stations, the definition of a heritage identity."
+  ],
+  "funFacts": [
+    "First flight: January 11, 1959 (-320).",
+    "Stretched and re-winged for true transatlantic nonstops.",
+    "Its airframe spawned military types that outlived it by decades."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x JT3D"
+    },
+    {
+      "label": "Range",
+      "value": "~9,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 189"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-707-300.png",
+    "alt": "707-300 series descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 707-300 series",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_707-300_v1.0.png"
+  }
+}

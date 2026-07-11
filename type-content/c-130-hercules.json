@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The C-130 Hercules first flew in 1954 and has never stopped being built, the longest continuous military aircraft production run in history. Tactical airlift, gunship, tanker, firefighter, hurricane hunter: the airframe does everything.",
+    "This identity covers the classic Hercules generations through the C-130H, the ones your antenna hears on air forces worldwide. The modern C-130J squawks its own code and will join the catalog as its own type."
+  ],
+  "funFacts": [
+    "First flight: August 23, 1954.",
+    "In continuous production for 70+ years.",
+    "Operated by 60+ nations."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x Allison T56"
+    },
+    {
+      "label": "Range",
+      "value": "~3,800 km"
+    },
+    {
+      "label": "Payload",
+      "value": "~19 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

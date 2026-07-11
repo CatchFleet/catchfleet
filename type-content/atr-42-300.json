@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original small ATR from 1984 launched the Franco-Italian partnership that came to own turboprop aviation. Passenger examples are gone from most markets; cargo survivors carry on.",
+    "Four-blade props mark the classic generation, an instant visual difference from every modern ATR."
+  ],
+  "funFacts": [
+    "First flight: August 16, 1984.",
+    "The very first ATR product.",
+    "Its name comes from Avions de Transport Régional."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW120 turboprop"
+    },
+    {
+      "label": "Range",
+      "value": "~1,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 48"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/atr-family.png",
+    "alt": "ATR family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · ATR family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATR_family_v1.0.png"
+  }
+}

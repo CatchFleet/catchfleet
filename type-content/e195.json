@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The longest first-generation E-Jet pushes the family to its limit: a 124-seat regional jet that low-cost carriers used to open thin routes cheaply. Azul built its network on them.",
+    "Its extra stretch over the E190 is subtle from below; sighting counts and route patterns often tell you more."
+  ],
+  "funFacts": [
+    "First flight: December 7, 2004.",
+    "Azul in Brazil was the type's spiritual home.",
+    "The largest Embraer until the E2 generation."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-10E"
+    },
+    {
+      "label": "Range",
+      "value": "~4,200 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 124"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

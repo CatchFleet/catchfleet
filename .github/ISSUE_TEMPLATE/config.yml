@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 'Flight Manual: setup help & troubleshooting'
+    url: https://playcatchfleet.com/manual
+    about: Pre-Flight checklist, decoder setup, Listener troubleshooting, glossary. Check here first for setup problems.
+  - name: Catch Fleet (the game)
+    url: https://playcatchfleet.com
+    about: The game itself. Alfa seats are invited in small waves.

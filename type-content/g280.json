@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Gulfstream's super-midsize is built by Israel Aerospace Industries in Tel Aviv, then finished in Dallas: a transatlantic-capable jet with big-Gulfstream DNA in a smaller body.",
+    "The only Gulfstream not built in Savannah, which makes its manufacturing story as interesting as its range."
+  ],
+  "funFacts": [
+    "First flight: December 11, 2009.",
+    "Assembled by IAI in Israel under Gulfstream's flag.",
+    "Can cross the Atlantic westbound against the winds."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "HTF7250G"
+    },
+    {
+      "label": "Range",
+      "value": "~6,700 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 10"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

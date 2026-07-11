@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Lockheed's only widebody was an engineering masterpiece that arrived slightly too late and nearly took the company with it. Exactly one remains airworthy: Stargazer, which launches rockets.",
+    "Stargazer air-launches Pegasus rockets from 40,000 feet, making the last TriStar a working spaceport with wings."
+  ],
+  "funFacts": [
+    "First flight: November 16, 1970.",
+    "Its autoland system was decades ahead of its time.",
+    "The sole survivor launches satellites for Northrop Grumman."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x RB211-22B"
+    },
+    {
+      "label": "Range",
+      "value": "~7,400 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 400"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/lockheed-l-1011-tristar.png",
+    "alt": "L-1011 TriStar descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · L-1011 TriStar",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lockheed_L-1011_TriStar_v1.0.png"
+  }
+}

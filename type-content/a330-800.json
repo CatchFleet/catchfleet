@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The rarest current Airbus widebody: the short-fuselage A330neo found almost no buyers, making every -800 airframe a collector's event. Fewer than a couple dozen exist.",
+    "It pairs the -200 body with new Trent 7000 engines and the neo's curved sharklet wingtips."
+  ],
+  "funFacts": [
+    "First flight: November 6, 2018.",
+    "One of the smallest order books of any modern Airbus.",
+    "Kuwait Airways and Uganda Airlines were among its first operators."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 7000"
+    },
+    {
+      "label": "Range",
+      "value": "~15,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 260"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a330-family.png",
+    "alt": "A330 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A330 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A330_family_v1.1.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The CL-415 is a purpose-built firefighting flying boat: it skims a lake at 130 km/h and scoops six tonnes of water in about twelve seconds, then drops it on the fire and goes back for more, dozens of times a day.",
+    "Mediterranean summers run on this aircraft. Watching a pair of Super Scoopers work a coastline fire is unforgettable, and their low-level laps often land right in your sightings log."
+  ],
+  "funFacts": [
+    "First flight: December 6, 1993.",
+    "Scoops ~6,100 litres in about 12 seconds.",
+    "Nicknamed the Super Scooper in California."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "2x PW123AF"
+    },
+    {
+      "label": "Water load",
+      "value": "~6,100 L"
+    },
+    {
+      "label": "Crew",
+      "value": "2"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The 328JET is exactly what it sounds like: the Dornier 328 turboprop re-engined with turbofans. Same fuselage, same wing, jet speed, and a niche all its own among 30-seat aircraft.",
+    "The US Air Force flies 328JETs as the C-146A Wolfhound for special operations transport, so the J328 your antenna caught might be military in plain clothes."
+  ],
+  "funFacts": [
+    "First flight: January 20, 1998.",
+    "USAF C-146A Wolfhound is a converted 328JET.",
+    "About 110 were built before production ended."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW306B"
+    },
+    {
+      "label": "Range",
+      "value": "~1,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "~32"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

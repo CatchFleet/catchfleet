@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "A shortened, longer-ranged A300 with a new wing, the A310 pioneered technology later taken for granted: it helped introduce the two-crew glass cockpit to widebodies. Survivors fly mostly as tankers and government transports.",
+    "The -300's giveaway is the small wingtip fences, an Airbus first that predates today's sharklets by decades."
+  ],
+  "funFacts": [
+    "First flight: July 8, 1985 (A310-300).",
+    "The basis of Germany's and Canada's military transport and MRTT tankers.",
+    "First Airbus with wingtip fences."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF6-80C2 / PW4000"
+    },
+    {
+      "label": "Range",
+      "value": "~9,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 240"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a310.png",
+    "alt": "A310 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A310",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A310_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Gulfstream V opened the ultra-long-range era in 1995: nonstop from New York to Tokyo, no fuel stop. The refined G550 followed in 2003 and became the best-selling large-cabin Gulfstream of its generation.",
+    "Governments and air forces love this platform: special-mission G550s fly as radar testbeds, signals aircraft, and VIP transports on every continent, so the GLF5 you caught may not be a private jet at all."
+  ],
+  "funFacts": [
+    "First flight: November 28, 1995.",
+    "The G550 won the 2003 Collier Trophy for aviation achievement.",
+    "Israel's Nachshon fleet turned G550s into flying radar stations."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "RR BR710"
+    },
+    {
+      "label": "Range",
+      "value": "~12,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 19"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

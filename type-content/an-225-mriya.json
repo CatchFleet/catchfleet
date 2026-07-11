@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The largest airplane ever built: six engines, 32 wheels, and a name meaning Dream. Only one was completed, and it was destroyed at Hostomel in February 2022. The identity remains in its honor.",
+    "No antenna will catch Mriya again, and that is exactly why this entry exists: some aircraft are kept so they are not forgotten."
+  ],
+  "funFacts": [
+    "First flight: December 21, 1988.",
+    "Built to carry the Soviet Buran space shuttle.",
+    "Destroyed in Ukraine, February 2022."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "6x D-18T"
+    },
+    {
+      "label": "Payload",
+      "value": "~250 t"
+    },
+    {
+      "label": "Wingspan",
+      "value": "88.4 m"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

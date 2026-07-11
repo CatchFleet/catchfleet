@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Citation X was built to answer one question: how fast can a business jet go? At Mach 0.935 it was the fastest civil aircraft in service after Concorde retired, wearing a swept wing and area-ruled fuselage to prove it.",
+    "Golf legend Arnold Palmer took delivery of the first one in 1996 and flew it himself. The X+ pushed cruise slightly higher before production ended in 2018."
+  ],
+  "funFacts": [
+    "First flight: December 21, 1993.",
+    "Cruises at Mach 0.935, about 990 km/h.",
+    "Arnold Palmer was the launch customer and pilot."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "RR AE 3007C"
+    },
+    {
+      "label": "Range",
+      "value": "~6,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 12"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

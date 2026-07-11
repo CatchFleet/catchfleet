@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The bigger E-Jet plays in mainline territory: 100 seats, real range, and economics that let airlines right-size routes a 737 would fly half empty. JetBlue launched it; the world followed.",
+    "A stretched body on a bigger wing with CF34-10s: think of it as the E170's ambitious sibling."
+  ],
+  "funFacts": [
+    "First flight: March 12, 2004.",
+    "Flown by mainline carriers, not just regionals.",
+    "The best-selling first-generation E-Jet after the E175."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CF34-10E"
+    },
+    {
+      "label": "Range",
+      "value": "~4,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 114"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

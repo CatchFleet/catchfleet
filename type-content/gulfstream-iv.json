@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Gulfstream IV flew in 1985 and set the template for the modern large-cabin business jet: intercontinental range, a stand-up cabin, and Rolls-Royce Tay turbofans. The line evolved through the GIV-SP into the G450, which added the PlaneView cockpit borrowed from the G550.",
+    "Spotters know this catch by its code: GLF4 covers the whole Gulfstream IV lineage, from 1980s originals to G450s delivered in 2018. Whichever airframe you heard, it belongs to one of the most successful business jet series ever built."
+  ],
+  "funFacts": [
+    "First flight: September 19, 1985.",
+    "Around 900 aircraft were built across the GIV, GIV-SP, G300, G350, and G450.",
+    "NOAA flies a GIV-SP into hurricanes as a high-altitude weather sampler."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "RR Tay 611-8C"
+    },
+    {
+      "label": "Range",
+      "value": "~7,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 16"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

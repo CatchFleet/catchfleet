@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Embraer's first big business jet is an ERJ-135 in a tuxedo: airline reliability, a huge cabin for the class, and winglets. The 650 added range; the Dex collects them as one series identity.",
+    "Corporate schedules mean it appears at odd hours from odd places, exactly the kind of catch that makes you check the map."
+  ],
+  "funFacts": [
+    "First flight: March 31, 2001 (Legacy 600).",
+    "Derived directly from the ERJ-135 airliner.",
+    "A famous first step in Embraer's executive jet empire."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "AE3007A2"
+    },
+    {
+      "label": "Range",
+      "value": "~7,200 km (650)"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 14"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

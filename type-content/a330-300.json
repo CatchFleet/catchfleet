@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original A330 is one of aviation's great workhorses: a big twin that hauled Asia's dense regional trunks and Europe's holiday routes for three decades and still fills the evening sky.",
+    "Its 1992 first flight came just weeks apart from its four-engined twin sister, the A340, built on the same wing and line."
+  ],
+  "funFacts": [
+    "First flight: November 2, 1992.",
+    "Developed in parallel with the A340 on a shared wing.",
+    "Over 700 -300s were delivered, the most of any A330 version."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "Trent 700 / CF6 / PW4000"
+    },
+    {
+      "label": "Range",
+      "value": "~11,750 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 300"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a330-300.png",
+    "alt": "A330-300 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A330-300",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A330-300_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The Pegasus is the 767 reborn as a tanker: a modern boom operator station with remote vision replaces the old sighting window, and the airframe doubles as freighter and medevac.",
+    "Based on the 767-2C, it keeps enough airliner DNA that your resolver may feel briefly nostalgic."
+  ],
+  "funFacts": [
+    "First flight: September 25, 2015 (KC-46 configuration).",
+    "Boom operators fly the boom from screens, not a rear window.",
+    "Selected to replace a large share of the KC-135 fleet."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "PW4062"
+    },
+    {
+      "label": "Range",
+      "value": "~11,800 km"
+    },
+    {
+      "label": "Fuel offload",
+      "value": "~96 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

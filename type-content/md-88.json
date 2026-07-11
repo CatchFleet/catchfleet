@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The glass-cockpit MD-80 was Delta's short-haul icon for thirty years. Retirement came suddenly in 2020, and active examples are now vanishingly rare.",
+    "Any MD-88 hit today deserves investigation: the survivors are scattered, few, and full of stories."
+  ],
+  "funFacts": [
+    "First flight: August 15, 1987.",
+    "Delta was the definitive operator until 2020.",
+    "Added EFIS displays to the classic MD-80 airframe."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "JT8D-219"
+    },
+    {
+      "label": "Range",
+      "value": "~3,800 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 172"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/mcdonnell-douglas-md-82.png",
+    "alt": "MD-82 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · MD-82",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-82_v1.0.png"
+  }
+}

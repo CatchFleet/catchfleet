@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The forgotten NG: a shrunken 737 that only 69 customers' worth of orders ever justified. Most were retired young, making the smallest NG one of the rarest Boeing narrowbodies flying.",
+    "Almost none carry winglets, which combined with the stubby body makes a -600 oddly easy to confirm."
+  ],
+  "funFacts": [
+    "First flight: January 22, 1998.",
+    "Only 69 were built.",
+    "SAS was the launch customer and biggest operator."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56-7B"
+    },
+    {
+      "label": "Range",
+      "value": "~5,600 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 130"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-737-600.png",
+    "alt": "737-600 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 737-600",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737-600_v1.0.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The best-selling super-midsize business jet of its era: transcontinental range, a flat-floor cabin and canted winglets. Charter fleets love it, which keeps it surprisingly visible to hobby antennas.",
+    "Super-midsize means it turns up on routes from city pairs you would never predict, a nice source of Fleet variety."
+  ],
+  "funFacts": [
+    "First flight: March 2, 2013.",
+    "Consistently the world's most-delivered business jet in its class.",
+    "An evolution of the Challenger 300."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "HTF7350"
+    },
+    {
+      "label": "Range",
+      "value": "~5,900 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 10"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

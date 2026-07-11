@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Four 747-400s were sliced open and rebuilt with a swollen upper fuselage and a swing-open tail to ferry 787 sections between factories. It is one of the strangest silhouettes in the sky.",
+    "With only four in existence flying a fixed factory circuit, a Dreamlifter catch is pure schedule luck."
+  ],
+  "funFacts": [
+    "First flight: September 9, 2006.",
+    "The entire tail swings sideways to load cargo.",
+    "Officially the 747-400 Large Cargo Freighter."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x PW4062"
+    },
+    {
+      "label": "Range",
+      "value": "~7,800 km"
+    },
+    {
+      "label": "Payload",
+      "value": "~113 t volume-limited"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

@@ -14,7 +14,7 @@ station didn't hear it. Range is a mechanic: your farthest catch is a
 tracked record, and antenna upgrades translate directly into collection
 progress.
 
-🎟️ **Alpha:** seats are limited, invited in small waves →
+🎟️ **Alfa:** seats are limited, invited in small waves →
 [playcatchfleet.com](https://playcatchfleet.com)
 👀 **Live example Dex** from the founder's own station →
 [playcatchfleet.com/sedergine/dex](https://playcatchfleet.com/sedergine/dex)
@@ -31,11 +31,11 @@ private repository; what we publish here is everything that shapes it:
 
 | Path | What lives there |
 | --- | --- |
-| `docs/roadmap.md` | Product themes and milestone history (M0–M10 closed, M11 in planning) |
+| `docs/roadmap.md` | Product themes and milestone history (M0–M11 closed, M12 active) |
 | `docs/design-notes/` | Rarity, patches, and other feature design notes — the actual working documents |
-| `catalog/` | The catalog review data: `aircraft_variant_catalog_review.csv` with a documented decision for all 152 aircraft candidates, plus the review policy and its amendments |
+| `catalog/` | The catalog review data: `aircraft_variant_catalog_review.csv` with a documented decision for all 171 aircraft candidates reviewed to date, plus the review policy and its amendments |
 | `type-content/` | Per-type trivia, fun facts and specs, exactly as rendered in the game |
-| `devlog/` | Weekly alpha reports and change notes |
+| `devlog/` | Weekly Alfa reports and change notes |
 
 Why this split? Catch Fleet is a solo project built with AI coding agents
 (more below), and the most honest thing to open isn't a pile of generated
@@ -71,7 +71,7 @@ your antenna → SDR → decoder (SBS1) → Listener → Catch Fleet → your De
 
 Any SDR that can hear 1090 MHz (a ~$30 RTL-SDR dongle with its stock antenna
 is a perfectly good day-one station), a decoder you probably already run
-with SBS1 output, Node.js LTS for the Listener, and an alpha invite. The
+with SBS1 output, Node.js LTS for the Listener, and an Alfa invite. The
 full, honest walk-through lives in the
 [Flight Manual](https://playcatchfleet.com/manual).
 
@@ -95,8 +95,8 @@ honest answer.
 ## Issues and contributing
 
 **Bug reports and setup-friction notes are the most valuable contribution
-during the alpha** — open them in
-[Issues](https://github.com/catchfleet/game/issues). Corrections to
+during the Alfa** — open them in
+[Issues](https://github.com/catchfleet/catchfleet/issues). Corrections to
 `type-content/` (a wrong range figure, a better fun fact) are very welcome
 as issues or PRs against this repo. Catalog suggestions are welcome too,
 with the caveat that catalog changes follow the review policy: sourced,
@@ -104,8 +104,8 @@ decided, documented.
 
 ## Status
 
-Alpha, live at [playcatchfleet.com](https://playcatchfleet.com). Milestones
-M0 through M10 are closed; M11 is in planning. The waitlist is the way in.
+Alfa, live at [playcatchfleet.com](https://playcatchfleet.com). Milestones
+M0 through M11 are closed; M12 (launch response + calibration) is active. The waitlist is the way in.
 
 ---
 

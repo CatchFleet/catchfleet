@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Dassault put fighter technology in a business jet: the 7X was the first bizjet with full digital fly-by-wire, flown with the same control philosophy as the Rafale. Three engines, because Dassault.",
+    "The trijet layout is a Falcon family signature and an instant identifier among a sky of twin-engined rivals."
+  ],
+  "funFacts": [
+    "First flight: May 5, 2005.",
+    "First business jet with digital fly-by-wire.",
+    "Its S-duct center engine echoes Dassault fighter design."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "3x PW307A"
+    },
+    {
+      "label": "Range",
+      "value": "~11,000 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 16"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}

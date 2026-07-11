@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "Four engines, forever. The A340-300 was built for an era when twins could not cross remote oceans, and a stubborn handful still fly scheduled passengers today, making it a living piece of long-haul history.",
+    "Four small CFM56s under one big wing produce an unmistakable silhouette and a distinctive multi-engine drone worth catching while you can."
+  ],
+  "funFacts": [
+    "First flight: October 25, 1991.",
+    "Developed side by side with the twin A330 on the same wing.",
+    "Marketed with the slogan: four engines for long haul."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x CFM56-5C"
+    },
+    {
+      "label": "Range",
+      "value": "~13,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 295"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a340-300.png",
+    "alt": "A340-300 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A340-300",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A340-300_v1.0.png"
+  }
+}

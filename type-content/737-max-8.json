@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The core of Boeing's fourth 737 generation pairs the classic airframe with LEAP-1B engines and split-tip winglets. After a grounding that made world news, it returned to become one of the most common jets in the sky again.",
+    "The double-pointed AT winglet, one blade up and one down, is the fastest way to tell a MAX from an NG at distance."
+  ],
+  "funFacts": [
+    "First flight: January 29, 2016.",
+    "The distinctive chevron-edged engine nacelles cut noise.",
+    "Thousands are on order, so this tile only gets easier."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "LEAP-1B"
+    },
+    {
+      "label": "Range",
+      "value": "~6,500 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 189"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/boeing-737-family.png",
+    "alt": "737 family descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · 737 family",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boeing_737_family_v1.0.png"
+  }
+}

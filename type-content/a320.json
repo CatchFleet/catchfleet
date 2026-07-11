@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "The original 1988 A320 changed airliners forever: it was the first with digital fly-by-wire and sidesticks instead of a yoke. Everything from the A318 to the A380 inherited its cockpit philosophy.",
+    "The famous barking-dog sound on taxi comes from the hydraulic power transfer unit, and the ceo generation barks loudest."
+  ],
+  "funFacts": [
+    "First flight: February 22, 1987.",
+    "First airliner with digital fly-by-wire flight controls.",
+    "The A320 family became the best-selling airliner family in history."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "CFM56 / V2500"
+    },
+    {
+      "label": "Range",
+      "value": "~6,100 km"
+    },
+    {
+      "label": "Seats",
+      "value": "up to 180"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/airbus-a320.png",
+    "alt": "A320 descriptive geometry drawing: side, top, front views",
+    "caption": "Technical Plate · Descriptive Geometry · A320",
+    "credit": "Julien Scavini",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airbus_A320_v1.0.png"
+  }
+}

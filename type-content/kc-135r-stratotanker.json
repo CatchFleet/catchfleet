@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "trivia": [
+    "A flying gas station older than the jet age's memory: the KC-135 first flew in 1956, and re-engined R models still anchor aerial refueling today. Few airframes anywhere have worked this long.",
+    "Descended from the same Dash 80 prototype as the Boeing 707, it is a living branch of the very first jetliner family tree."
+  ],
+  "funFacts": [
+    "First flight: August 31, 1956 (KC-135A).",
+    "The R model swapped in CFM56 engines for a second life.",
+    "Many airframes are past 60 years of service."
+  ],
+  "specs": [
+    {
+      "label": "Engines",
+      "value": "4x CFM56 (F108)"
+    },
+    {
+      "label": "Range",
+      "value": "~2,400 km with full offload"
+    },
+    {
+      "label": "Fuel offload",
+      "value": "~90 t"
+    }
+  ],
+  "media": {
+    "kind": "drawing",
+    "file": "/type-media/plate-not-on-file.svg",
+    "alt": "Empty archival plate: no technical drawing on file for this type yet",
+    "caption": "Technical Plate · Not on file yet",
+    "credit": "Catch Fleet Archive",
+    "license": "Original artwork",
+    "sourceUrl": "https://playcatchfleet.com"
+  }
+}
