@@ -1,6 +1,6 @@
 # Catch Fleet: Public Roadmap
 
-*Curated from the internal roadmap. Last updated July 11, 2026. Dates are
+*Curated from the internal roadmap. Last updated July 13, 2026. Dates are
 close dates verified against production, not plans.*
 
 ## How to read this
@@ -36,6 +36,17 @@ night-owl, the Operators category) get calibrated against real week-one
 reception data instead of guesses. **No new big systems in M12.** Features
 like an Operator Dex are parked for beta on purpose, so the game keeps
 visibly growing while more players arrive.
+
+M12 progress so far (July 13): the first tester's weekend surfaced a class
+of physically impossible distance records from a location-less decoder, and
+the response shipped end to end: distance claims beyond the reception
+horizon now wait for verification, single-frame registry-unknown noise is
+filtered at the gate, Listener 0.5.0 landed (automatic retries, a
+receiver-location warning at startup, a version tag with an update notice
+on the dashboard), standby invitations go out by email with the boarding
+code, and the admin side was rebuilt around tester operations and a
+distance review queue. Still ahead in M12: the Flight Manual overhaul and
+the July 19 calibration pass over a real week of reception data.
 
 Also in flight: a second reference source (ADS-B Exchange) landed for the
 resolver, dropping mystery signals from about 51% to about 36.5% of
